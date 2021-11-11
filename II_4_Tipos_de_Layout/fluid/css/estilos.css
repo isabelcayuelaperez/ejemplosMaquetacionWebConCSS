@@ -1,4 +1,4 @@
-.container {
+main {
   background-color: blue;
   margin: 20px auto;
   height: 400px;
@@ -11,16 +11,16 @@ header {
   height: 40px;
 }
 
-article {
+section {
   background-color: green;
   height: 340px;
   margin-top: 20px;
   width: 45%;
 }
-article:nth-child(1) {
+section:nth-child(1) {
   float: left;
 }
 
-article:nth-child(2) {
+section:nth-child(2) {
   float: right;
 }

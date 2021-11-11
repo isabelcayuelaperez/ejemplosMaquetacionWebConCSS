@@ -72,5 +72,7 @@ h1 {
   background-color: burlywood;
   height: 1000px;
   margin: 20px auto;
+  position: relative;
   width: 60%;
 }
+
